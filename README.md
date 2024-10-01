@@ -53,9 +53,6 @@ HealthCare Buddy is an AI chatbot designed to assist users with health-related q
 - Integrate real-time data for health statistics and trends.
 - Expand to include more health-related services such as insurance suggestions.
 
-## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 This template should give a comprehensive overview of your project!
