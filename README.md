@@ -1,12 +1,7 @@
-# Healthcare-buddy
-Here is a sample README file for your "HealthCare Buddy" project:
-
----
-
 # HealthCare Buddy
 
 **Description:**
-HealthCare Buddy is a chatbot designed to assist users with health-related queries. It provides personalized recommendations based on user input, including symptom precautions, medication suggestions, and report analysis. Additionally, it helps users locate the nearest hospitals, doctors, and pharmacies using their current location.
+HealthCare Buddy is an AI chatbot designed to assist users with health-related queries. It provides personalized recommendations based on user input, including symptom precautions, medication suggestions, and report analysis. Additionally, it helps users locate the nearest hospitals, doctors, and pharmacies using their current location.
 
 ## Features:
 - Symptom analysis and precaution suggestions
