@@ -6,10 +6,10 @@ import requests
 import math
 
 # Set your OpenAI API key
-openai.api_key = "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"  # Replace with your actual API key
+openai.api_key =  # Replace with your actual API key
 
 # Set your Google Places API key
-GOOGLE_PLACES_API_KEY = "AIzaSyA0ikaXc3ZGwa-hJ598QIRt6qmCWWqjkHU"  # Replace with your actual API key
+GOOGLE_PLACES_API_KEY = # Replace with your actual API key
 
 def encode_image(image_file):
     return base64.b64encode(image_file.getvalue()).decode('utf-8')
