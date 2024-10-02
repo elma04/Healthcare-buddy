@@ -1,14 +1,15 @@
 # HealthCare Buddy
 
 **Description:**
-HealthCare Buddy is an AI chatbot designed to assist users with health-related queries. It provides personalized recommendations based on user input, including symptom precautions, medication suggestions, and report analysis. Additionally, it helps users locate the nearest hospitals, doctors, and pharmacies using their current location.
+HealthCare Buddy is an advanced conversational agent engineered to facilitate comprehensive healthcare consultations through intelligent natural language processing. It offers a plethora of health-related insights, including precautionary advice for symptoms, pharmacological recommendations, and in-depth analyses of health reports like ct-scans, blood test reports, x-rays. Moreover, the chatbot is augmented with geospatial capabilities, enabling it to provide precise localization of proximate healthcare institutions, including hospitals, physicians, and pharmacies, based on the user's real-time geographic coordinates.
 
 ## Features:
-- Symptom analysis and precaution suggestions
-- Medication recommendations based on user symptoms
-- Health report analysis (based on user-provided data)
-- Nearby hospital, doctor, and pharmacy location suggestions (using Google Place API)
-- Interactive user interface for seamless chatbot communication
+- **Symptomatology Evaluation:** Utilizes advanced algorithms to extrapolate tailored preventive measures corresponding to user-reported symptoms.
+- **Pharmacological Guidance:** Delivers precise medication suggestions, drawing upon symptom-specific pharmaceutical knowledge.
+- **Clinical Report Interpretation:** Analyzes and deciphers user-submitted health data, offering clinically relevant insights and diagnostic perspectives.
+- **Geospatial Healthcare Facility Discovery:** Employs the Google Place API to execute precise geolocation-based searches, identifying nearby medical establishments, practitioners, and pharmacies 
+  in accordance with the user's positional data.
+- **Interactive Conversational Interface:** Built using Streamlit to ensure seamless bidirectional communication, fostering an intuitive user experience while engaging with the chatbot.
 
 ## Tools and Technologies:
 - **Python**: Backend logic and chatbot integration.
@@ -55,4 +56,8 @@ HealthCare Buddy is an AI chatbot designed to assist users with health-related q
 
 ---
 
-This template should give a comprehensive overview of your project!
+© 2024 HealthCare Buddy. All rights reserved.
+
+Unauthorized duplication, distribution, or modification of this software is strictly prohibited. This software and its documentation are the intellectual property of Elma Anwar. Any use of code, algorithms, or content from this project must be explicitly authorized. Violators may be subject to legal action.
+
+For permissions or inquiries, please contact: Elma Anwar
