@@ -61,3 +61,5 @@ HealthCare Buddy is an advanced conversational agent engineered to facilitate co
 Unauthorized duplication, distribution, or modification of this software is strictly prohibited. This software and its documentation are the intellectual property of Elma Anwar. Any use of code, algorithms, or content from this project must be explicitly authorized. Violators may be subject to legal action.
 
 For permissions or inquiries, please contact: Elma Anwar
+
+[Sample Chatbot Conversation](./sample_conversation.pdf)
