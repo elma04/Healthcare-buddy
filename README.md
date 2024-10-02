@@ -63,3 +63,5 @@ Unauthorized duplication, distribution, or modification of this software is stri
 For permissions or inquiries, please contact: Elma Anwar
 
 [Sample Chatbot Conversation](./sample_conversation.pdf)
+<iframe src="https://github.com/elma04/Healthcare-buddy/blob/main/sample_conversation.pdf" width="100%" height="600px"></iframe>
+
